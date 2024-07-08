@@ -28,4 +28,4 @@ app.post('/',(req,res)=>{
 //To start the server
 app.listen(port,()=>{
     console.log( `http://localhost:${port}`);
-})
+}) 
